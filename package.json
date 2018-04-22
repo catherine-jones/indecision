@@ -1,0 +1,8 @@
+{
+  "name": "indecision",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:catherine-jones/indecision.git",
+  "author": "Catherine Jones <cath@bitgirl101.com>",
+  "license": "MIT"
+}
